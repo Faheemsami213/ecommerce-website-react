@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+
+.home{
+  width: 100%;
+  height: 100vh;
+  
+}
+
+.reg{
+  font-family: 'Playfair Display', serif;
+}
+.arro{
+  color: white;
+}
